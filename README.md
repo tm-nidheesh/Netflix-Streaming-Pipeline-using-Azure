@@ -31,6 +31,24 @@ Developed a bronze table(which contains data in raw format) by ingesting data in
 
 <img width="959" alt="silver container after running the pipeline" src="https://github.com/user-attachments/assets/633266dc-0c9b-43a5-9175-d48bd604d3b4" /><br>
   Silver container after running the pipeline
+  <br>
+
+### Gold Table(Serving data)
+* Purpose: Provide aggregated and business-ready data for analytics and reporting.
+* Processing Includes:
+  * Data aggregation and summarization
+  * Business KPIs computation
+  * Dimensional modeling (facts and dimensions)
+* Storage: Clean, ready-to-use data stored in Delta Tables in the Data Lake.
+* Use Case: Consumed by downstream tools like:
+  * Azure Synapse Analytics.
+  * Power BI Dashboards.
+
+<img width="959" alt="gold_dlt2" src="https://github.com/user-attachments/assets/035f2f4a-55ec-48de-8da8-c990ee8e12a6" /><br>
+
+<img width="959" alt="workflow 2 success" src="https://github.com/user-attachments/assets/0b5a1fb2-e987-40ad-a145-7cd48b724084" />
+
+ 
 
 
 
