@@ -4,8 +4,9 @@ Designed a Netflix streaming data pipeline which implements a medallion architec
 
 ## Architecture
 
-![Project Architecture](https://github.com/user-attachments/assets/0a3a64cf-8b28-4486-9ed9-d259ff8ee57f)
+![Project Architecture2 drawio](https://github.com/user-attachments/assets/3951b55f-5ace-4ad2-ac32-3a214688e8a9)
 
+<br>
 
 ## Project description
 ### Bronze Table
