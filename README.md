@@ -1,7 +1,8 @@
 # Netflix Streaming Pipeline
 
-## Architecture
 Designed a Netflix streaming data pipeline which implements a medallion architecture (Bronze → Silver → Gold) using Azure Data Lake and Databricks Delta Live Tables (DLT) to process, transform, and serve data for analytics and reporting. It follows modern data engineering best practices with a Lakehouse approach.
+
+## Architecture
 
 ![Project Architecture](https://github.com/user-attachments/assets/0a3a64cf-8b28-4486-9ed9-d259ff8ee57f)
 
