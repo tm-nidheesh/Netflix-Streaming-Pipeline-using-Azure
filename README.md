@@ -15,6 +15,7 @@ Developed a bronze table(which contains data in raw format) by ingesting data in
   * Files from cloud storage (Azure Blob): Data is incrementally loaded using Autoloaders.<br>
   * APIs: Data from web(Github account) is ingested to the bronze table using ADF pipeline.<br>
 * Processing Type: Incremental data loads.<br>
+* Tool used: Azure Data Factory.<br>
 * Storage: Data is ingested into a Data Lake in its original format.<br>
 
 
