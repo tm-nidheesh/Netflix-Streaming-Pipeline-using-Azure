@@ -8,6 +8,16 @@ Designed a Netflix streaming data pipeline which implements a medallion architec
 
 <br>
 
+### Tools and Technologies Used:<br>
+* Azure Databricks.<br>
+* Azure Data Factory(ADF).<br>
+* Azure Data Lake Storage Gen2(ADLS Gen 2).<br>
+* Pyspark.<br>
+* Spark SQL.<br>
+* Delta Live Tables.<br>
+
+<br>
+
 ## Project description
 ### Bronze Table
 Developed a bronze table(which contains data in raw format) by ingesting data into Azure Data Lake Storage using Azure Data Factory.<br>
