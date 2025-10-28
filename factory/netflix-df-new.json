@@ -1,0 +1,9 @@
+{
+	"name": "netflix-df-new",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3c7a1b6-20fc-411c-9708-df5c12c41e8b",
+		"tenantId": "e6ca29d7-1c24-4a8c-9be1-7be21ee47d0d"
+	}
+}
